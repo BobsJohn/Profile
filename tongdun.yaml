@@ -1,0 +1,7 @@
+# NAME: tongdun
+# AUTHOR: xxx
+payload:
+  - DOMAIN,teamwork.tongdun.me
+  - DOMAIN-SUFFIX,tongdun.me
+  - DOMAIN-SUFFIX,tongdun.cn
+  - IP-CIDR,10.57.240.1/32
