@@ -1,0 +1,10 @@
+# NAME: tongdun
+# AUTHOR: xxx
+payload:
+  - DOMAIN,
+  - DOMAIN-KEYWORD,cursor
+  - DOMAIN-SUFFIX,cursor.sh
+  - IP-CIDR,54.210.44.110/32
+  - IP-CIDR,54.210.0.0/16
+  - IP-CIDR,35.71.162.24/32
+  - IP-CIDR,35.71.162.24/32

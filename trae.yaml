@@ -1,0 +1,12 @@
+# NAME: trae
+# AUTHOR: xxx
+payload:
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,trae.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-KEYWORD,trae
+  - DOMAIN,mon-va.byteoversea.com
+  - IP-CIDR,23.218.0.0/16
+  - IP-CIDR,23.218.1.0/16
+  - IP-CIDR,23.218.2.0/16
