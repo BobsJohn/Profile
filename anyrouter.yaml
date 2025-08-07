@@ -1,0 +1,8 @@
+# NAME: anyrouter
+# AUTHOR: xxx
+payload:
+  - DOMAIN,
+  - DOMAIN-KEYWORD,anyrouter
+  - DOMAIN-SUFFIX,anyrouter.top
+  - IP-CIDR,163.181.0.0/16
+  - IP-CIDR,163.181.35.220/32
